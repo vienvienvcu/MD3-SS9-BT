@@ -1,0 +1,13 @@
+.control{
+   padding-top: 20px;
+}
+.control input {
+    width: 100%;
+    height: 30px;
+}
+.control label {
+    padding-bottom: 20px;
+}
+form {
+    width: 30%;
+}
